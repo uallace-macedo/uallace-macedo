@@ -65,28 +65,11 @@ Bot de Telegram para download assíncrono de músicas
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=uallace-macedo&show_icons=true&theme=radical&hide_border=true&bg_color=2E1A47&title_color=B8E0A0&icon_color=A78BFA&text_color=D8CDEB" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uallace-macedo&layout=compact&theme=radical&hide_border=true&bg_color=2E1A47&title_color=B8E0A0&text_color=D8CDEB&langs_count=8" />
-
-<br>
-
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=uallace-macedo&theme=radical&hide_border=true&background=2E1A47&stroke=A78BFA&ring=6B8E4E&fire=6B8E4E&currStreakLabel=B8E0A0" />
 
 <br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=uallace-macedo&theme=react-dark&hide_border=true&bg_color=2E1A47&color=B8E0A0&line=A78BFA&point=6B8E4E" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=uallace-macedo&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
