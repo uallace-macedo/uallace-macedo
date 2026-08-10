@@ -45,13 +45,13 @@ Encurtador de URLs full-stack
 </td>
 <td width="50%">
 
-### 🎵 Msiczz_bot
+### 🎵 Msiczz-bot
 
 Bot de Telegram para download assíncrono de músicas
 
 `Python` `AIogram` `YT-DLP`
 
-<a href="https://github.com/uallace-macedo/Msiczz_bot">
+<a href="https://github.com/uallace-macedo/msiczz-bot">
 <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=2E1A47" />
 </a>
 
